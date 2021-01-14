@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Button, Container, Form, FormControl, Navbar, Nav } from 'react-bootstrap';
+import { Button, Container, Form, Navbar, Nav } from 'react-bootstrap';
 import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import { About, Blog, Contacts, Home } from '../../pages';
 import planet from '../../planet.png';
